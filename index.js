@@ -1,6 +1,6 @@
 (
         function () {
-document.getElementById("xCursor").innerHTML = "Paragraph changed!";
+            document.getElementById("xCursor").innerHTML = "Paragraph changed!";
 
             function showCoords(event) {
                 var x = event.clientX;
